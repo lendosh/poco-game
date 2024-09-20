@@ -1,0 +1,13 @@
+goal:
+    Find the planet with creatures int.
+places:
+    3 galaxies, each galaxy has 3 planets
+planets:
+    totaly 9 planets:
+        1 planet with int. creatures
+        4 planets with no condition to live there
+        3 planets looks strange, if you try to go there, user will die and start from the begin
+        1 looks like a planet, but this is a black hole. User should explore first the black hole and then go in. He have to go direct to black hole, the robot will send to the past and he will left a message to his present, which will be at 5k years.
+challenges:
+    3 keys:
+        - discover a technology at black hole, infinity energy 
